@@ -40,4 +40,4 @@ Initial specification and repository setup stage.
 
 ## License
 
-MIT
+This project is licensed under the GNU General Public License v2.0 (GPLv2).
